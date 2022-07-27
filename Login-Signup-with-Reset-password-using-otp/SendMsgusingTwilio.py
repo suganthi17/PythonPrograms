@@ -2,7 +2,7 @@
 from twilio.rest import Client
 import random
 # Your Account Sid and Auth Token from twilio.com / console
-account_sid = 'AC2c510651ed843ca3dfb50e729db4b9a9'
+account_sid = 'AXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 auth_token = 'b07a78b4bf07269462056ce7d2990f6d'
 
 client = Client(account_sid, auth_token)
